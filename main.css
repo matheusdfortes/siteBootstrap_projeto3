@@ -74,3 +74,18 @@ section h2,h3 {
 #section-fale-conosco form textarea {
     resize: none;
 }
+
+
+@media (max-width:767px){
+    .carousel-item img{
+        height: 400px;
+    }
+
+    #form-contato{
+        margin-bottom: 2em;
+    }
+
+    .input-group {
+        margin-bottom: 1em;
+    }
+}
