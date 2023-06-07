@@ -1,0 +1,76 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.main-text {
+    font-family: 'Lobster', cursive;
+}
+
+.navbar {
+    background-color: #0624cc;
+}
+
+.navbar-brand,
+.navbar-brand:hover,
+.nav .nav-link,
+#buscar-passagem h2 {
+    color: white;
+}
+
+.nav .nav-link.active{
+    color: #0624cc;
+    background-color: white;
+}
+
+section h2,h3 {
+    color: #0624cc;
+}
+
+
+.navbar-brand {
+    font-size: 2em;
+}
+
+.carousel-item img {
+    height: 760px;
+}
+
+#section-sobre,
+#section-destinos {
+    background-color: #ffdc82;
+}
+
+#buscar button {
+    background-color: white;
+    color: #0624cc;
+    border-radius: 50px;
+}
+
+#buscar-passagem {
+    background-color: #0624cc;
+    border-radius: 16px;
+}
+
+#botao-busca,
+.nav-destinos .nav-link {
+    background-color: #ffdc82;
+    color: #0624cc;
+}
+
+.nav-destinos .nav-link.active {
+    background-color: #0624cc;
+    color: white;
+}
+
+.redes-socias li {
+    display: inline;
+    list-style: none;
+}
+
+.redes-socias li a {
+    text-decoration: none;
+}
+
+#section-fale-conosco form textarea {
+    resize: none;
+}
